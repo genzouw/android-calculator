@@ -1,4 +1,4 @@
-package com.genzouw.android_calcurator;
+package com.genzouw.android_calculator;
 
 import org.junit.Test;
 

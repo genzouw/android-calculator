@@ -1,4 +1,4 @@
-package com.genzouw.android_calcurator;
+package com.genzouw.android_calculator;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
